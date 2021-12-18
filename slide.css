@@ -21,8 +21,8 @@
             backface-visibility: hidden;
     opacity: 0;
     transform: scale(1.5) rotate(15deg);
-    -webkit-animation: slowFade 32s infinite;
-            animation: slowFade 32s infinite;
+    -webkit-animation: slowFade 48s infinite;
+            animation: slowFade 48s infinite;
 }
 .slowFade .slide:nth-child(6) img {
     -webkit-animation-delay: 8s;
