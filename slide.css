@@ -24,15 +24,27 @@
     -webkit-animation: slowFade 32s infinite;
             animation: slowFade 32s infinite;
 }
-.slowFade .slide:nth-child(3) img {
+.slowFade .slide:nth-child(6) img {
+    -webkit-animation-delay: 4s;
+            animation-delay: 4s;
+}
+.slowFade .slide:nth-child(5) img {
     -webkit-animation-delay: 8s;
             animation-delay: 8s;
 }
-.slowFade .slide:nth-child(2) img {
+.slowFade .slide:nth-child(4) img {
+    -webkit-animation-delay: 12s;
+            animation-delay: 12s;
+}
+.slowfade .slide:nth-child(3) img {
     -webkit-animation-delay: 16s;
             animation-delay: 16s;
 }
-.slowFade .slide:nth-child(1) img {
+.slowfade .slide:nth-child(2) img {
+    -webkit-animation-delay: 20s;
+            animation-delay: 20s;
+}
+.slowfade .slide:nth-child(1) img {
     -webkit-animation-delay: 24s;
             animation-delay: 24s;
 }
